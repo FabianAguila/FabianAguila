@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, I'm Fabian Aguila</h1>
+
 ## About Me :
 
 - 🏢 Soy estudiante de ingenieria en informatica cursando en ultimo año, con conocimientos en HTML, CSS, JavaScript, TypeScript, SQL Server, SQL Developer, Api´s creadas en C# para la integracion en paginas web, junto con conocimientos en Python
