@@ -13,7 +13,7 @@
 
 <br>
 
-[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "@fab.aguila")](https://https://www.instagram.com/fab.aguila/)[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/linkedin.png "@fabian-aguila")](https://https://www.linkedin.com/in/fabian-aguila-442340253/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "979924970")](tel:979924970) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@fa.aguila.dev@gmail.com")](fa.aguila.dev@gmail.com)
+[![@anushkawijegoonawardana97](https://img.icons8.com/fluency/48/000000/instagram-new.png "fab.aguila")](https://www.instagram.com/fab.aguila/)[![@fabian-aguila](https://img.icons8.com/fluency/48/000000/linkedin.png "@fabian-aguila")](https://www.linkedin.com/in/fabian-aguila-442340253/) [![@0711971313](https://img.icons8.com/fluency/48/000000/phone-disconnected.png "979924970")](tel:979924970) [![@anushkaduwolka123@gmail.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@fa.aguila.dev@gmail.com")](fa.aguila.dev@gmail.com)
 
 <br>
 
