@@ -24,6 +24,8 @@
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> [![My Skills](https://skillicons.dev/icons?i=azure)](https://azure.microsoft.com/es-es)
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/npm.png"/>
+[![My Skills](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/es-es/languages/csharp)
+
 
 <br>
 
