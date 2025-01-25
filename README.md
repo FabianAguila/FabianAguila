@@ -9,7 +9,7 @@
 
 <br>
 
-## Contactame ☕ :
+## Contact me ☕ :
 
 <br>
 
@@ -17,7 +17,7 @@
 
 <br>
 
-## En que soy bueno 🧑‍💻 :
+## What I am Good at 🧑‍💻 :
 
 <br>
 
